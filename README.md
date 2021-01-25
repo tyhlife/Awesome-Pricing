@@ -7,7 +7,7 @@
 
 ### Article
 #### 1. Dynamic Pricing
-- AI가 가격을 결정하면 행복할까, [[link]](https://brunch.co.kr/@zagni/269)
+- AI가 가격을 결정하면 행복할까 [[link]](https://brunch.co.kr/@zagni/269)
 
 #### 2. Price elasticity
 - 수요의 가격탄력성 [[link]](https://m.blog.naver.com/haksengyo/220654423655)

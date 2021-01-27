@@ -1,4 +1,4 @@
-# Awesome-Pricing
+# Awesome-Pricing-Machine-Learning
 
 ### Paper
 #### 1. Dynamic Pricing

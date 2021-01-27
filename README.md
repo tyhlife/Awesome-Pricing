@@ -15,6 +15,7 @@
 
 ### Books
 - 헤르만 지몬의 프라이싱 가격이 모든 것이다 [[link]](http://www.yes24.com/Product/Goods/52894108)
+- 알고리즘 마케팅 [[link]](http://www.yes24.com/Product/Goods/73165833)
 ---
 
 
